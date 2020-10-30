@@ -1,0 +1,15 @@
+Package: datatoolboxexos
+Title: Code and data for the datatoolbox CESAB workshop
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "François",
+           family = "Guilhaumon",
+           role = c("aut", "cre"),
+           email = "francois.guilhaumon@ird.fr")
+Description: Provide the code and data I used to solve the datatoolbox CESAB workshop exercices.
+License: What license it uses
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
