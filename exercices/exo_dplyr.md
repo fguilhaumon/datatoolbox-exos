@@ -37,7 +37,7 @@ sp_eco <- datatoolboxexos::data_sp_eco()
 
 ```
 ## 
-## ── Column specification ────────────────────────────────────────────────────────
+## ── Column specification ────────────────────────────────────────────────────────────────────────────────
 ## cols(
 ##   ecoregion_id = col_character(),
 ##   species_id = col_double()
