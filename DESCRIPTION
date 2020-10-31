@@ -16,3 +16,5 @@ RoxygenNote: 7.1.0
 Imports: 
     readr,
     here
+Suggests: 
+    rmarkdown
