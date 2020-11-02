@@ -30,7 +30,7 @@ github and in a web browser.
 The [**data**](data/) directory contains the Data used in the analysis.
 There is a `README` in that directory that describes the Data.
 
-## How to run in your broswer or download and run locally
+## How to run it ?
 
 This research compendium has been developed using the statistical
 programming language R. To work with the compendium, you will need
@@ -39,11 +39,13 @@ software](https://cloud.r-project.org/) itself and optionally [RStudio
 Desktop](https://rstudio.com/products/rstudio/download/).
 
 You can download the compendium as a zip from from this URL:
-[master.zip](/archive/master.zip). After unzipping: - open the `.Rproj`
-file in RStudio - run `devtools::install()` to ensure you have the
-packages this analysis depends on (also listed in the
-[DESCRIPTION](/DESCRIPTION) file). - finally, open `make.R` and source
-it to produce the reports for all the exercercices.
+[master.zip](/archive/master.zip). After unzipping:
+
+  - open the `.Rproj` file in RStudio
+
+  - open `make.R` and source it to ensure you have the packages this
+    analysis depends on (also listed in the [DESCRIPTION](/DESCRIPTION)
+    file) and produce the reports for all the exercercices.
 
 ### Licenses
 
@@ -54,13 +56,6 @@ it to produce the reports for all the exercercices.
 
 **Data :** [CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
 attribution requested in reuse
-
-### Contributions
-
-We welcome contributions from everyone. Before you get started, please
-see our [contributor guidelines](CONTRIBUTING.md). Please note that this
-project is released with a [Contributor Code of Conduct](CONDUCT.md). By
-participating in this project you agree to abide by its terms.
 
 ## Session Info
 
