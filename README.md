@@ -17,7 +17,7 @@ Please cite this compendium as:
 
 ## Contents
 
-The **exercices** directory contains:
+The [**exercices**](exercices/) directory contains:
 
   - [::spiral\_notepad:: exo\_dplyr](/exercices/exo_dplyr.Rmd)
   - [::spiral\_notepad:: exo\_2](/exercices/exo_2.Rmd)
